@@ -1,0 +1,15 @@
+/* #nav{
+    background-color: blueviolet;
+} */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+  #nav{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    /* box-sizing: border-box; */
+      padding: 50px;
+ }
